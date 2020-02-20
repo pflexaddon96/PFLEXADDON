@@ -1,0 +1,35 @@
+MODELO COM VARIOS LINKS
+
+
+<item>
+<title>[B][COLOR lime]*NEW [/COLOR][B]NOME - [COLOR yellow](2019)[/ COLOR] - [COLOR orange](HD)[/ COLOR]-DUBLADO[B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COR laranja]HD[/ COLOR]-LINK 1</link>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI$$lsname=[COR laranja]HD[/ COLOR]-LINK 2</link>
+<link>URL AQUI$$lsname=[COR laranja]HD[/ COLOR]-LINK1</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+MODELO COM APENAS UM LINK
+
+
+<item>
+<title>[B][COLOR lime]*NEW [/COLOR][B]NOME - [COLOR yellow](2019)[/ COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUDIO ORIGINAL[B]</title>
+<link>plugin://plugin.video.gdrive?mode=streamURL&amp;url=URL AQUI?usp=drivesdk</link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
+
+
+MODELO UNIVERSAL DE APENAS UM LINK
+
+<item>
+<title>[B][COLOR lime]*NEW [/COLOR][B]NOME - [COLOR yellow](2019)[/COLOR] - [COLOR lime](FULLHD)[/COLOR] - AUDIO ORIGINAL[/B]</title>
+<link></link>
+<thumbnail></thumbnail>
+<fanart></fanart>
+<info></info>
+</item>
