@@ -1,28 +1,23 @@
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]FILMES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801408.us.archive.org/3/items/filmes_20200218_0032/FILMES.png</thumbnail>
-<externallink>https://raw.githubusercontent.com/pflexaddon96/PFLEXADDON/master/ACAO</externallink>
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - DIVERSAO PARA A FAMILIA - [COLOR deeppink]|[/COLOR]</info>
+<canais>
+<canal>
+<name> [COLOR yellow] FILME LHMTV [/ COLOR] [COLOR lime] BR [/ COLOR] http://lhmtv.ga/filmes </name>
+<thumbnail> https://imgur.com/H2ylCnA.png </thumbnail>
+<externallink> http://lhmtv.ga/filmes </externallink>
+<fanart> https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg </fanart>
+<info> [COLOR Lime] CREDITOS PARA [/ COLOR] LHMTV </info>
 </channel>
 </channels>
+
 <<<<<<<<<<<<<<<<<<<<<<<<<<<<<<
 
 
-<channels>
-<channel>
-<name>[COLOR indigo]|||[/COLOR][COLOR deeppink]|||[/COLOR][COLOR orangered]|||[/COLOR] [COLOR white]SERIES[/COLOR] [COLOR deeppink]|[/COLOR]</name>
-<thumbnail>https://ia801408.us.archive.org/3/items/filmes_20200218_0032/SERIES.png</thumbnail>
-<externallink>https://</externallink>
-<fanart></fanart>
-<info>
-
-
-[COLOR deeppink]|[/COLOR] - AS MELHORES - [COLOR deeppink]|[/COLOR]</info>
+<canais>
+<canal>
+<name> [COLOR orange] SÉRIE LHMTV [/ COLOR] [COLOR lime] BR [/ COLOR] http://lhmtv.ga/series </name>
+<thumbnail> https://imgur.com/QjxIHO9.png </thumbnail>
+<externallink> http://lhmtv.ga/series </externallink>
+<fanart> https://ia601403.us.archive.org/25/items/fanart_20190909_1728/fanart.jpg </fanart>
+<info> [COLOR Lime] CREDITOS PARA LHMTV [/ COLOR] </info>
 </channel>
 </channels>
 
